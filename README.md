@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning js
 - 💞️ I’m looking to collaborate on webprojects
 - 📫 How to reach me --> rajeevmandle.official@gmail.com
+- 💪iam currently pursuing btech in computer science and engineering.
 
 <!---
 rajeevmandleofficial/rajeevmandleofficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
